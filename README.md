@@ -1,3 +1,3 @@
 # EyeGuitar
 
-<img src="image.png" width="200">
+<img src="image.png" width="600">
