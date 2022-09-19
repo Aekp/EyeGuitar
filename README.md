@@ -1,4 +1,3 @@
 # EyeGuitar
 
-
-![Image](image.png)
+<img src="image.png" width="200">
