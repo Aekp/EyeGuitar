@@ -6,8 +6,8 @@ This is the public github page for demoing the "Eye Driven Guitar" in the multi 
 
 ## Setup
 To set up the program, please follow these steps:
-- Set up the tobii eye-tracker and calibrate (the tobii experience app should launch when connected)
-- Use station 10 or 1 in the lab, these are optimized an updarted for this use-case.
+- Connect the tobii eye-tracker (tobii 5) and calibrate (the tobii experience app should launch when connected)
+- Use station 10 or 1 in the lab, these are optimized and updated for this use-case.
 - Make sure that the resolution of the screen is set to "1920 x 1080" (display settings -> display resolution).
 - Download the executable file and launch it.
 - Make sure that the eyes are tracking (sometimes it has to be restarted if the gaze plot is not invoked at start-up).
